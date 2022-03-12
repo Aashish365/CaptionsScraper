@@ -2,5 +2,5 @@
 This project is solely for educational propose only.
 
 requirements:
-python selenium
-requests
+python selenium\n
+requests\n
